@@ -1,2 +1,2 @@
 # myodoo
-Pengembangan odoo oleh Developer Maxindo
+Pengembangan modul odoo oleh Developer Maxindo
